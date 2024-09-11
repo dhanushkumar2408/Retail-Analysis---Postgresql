@@ -17,7 +17,10 @@ Objectives
 
 
 
+
+
 Business Questions & Problems:
+
 
 1. retrieve all columns for sales made on '2022-11-05
 
